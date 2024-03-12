@@ -1,1 +1,2 @@
-# sunbird-sdk-snyk
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=Sunbird-Ed_sunbird-mobile-sdk&metric=alert_status)](https://sonarcloud.io/dashboard?id=Sunbird-Ed_sunbird-mobile-sdk)
+# sunbird-mobile-sdk

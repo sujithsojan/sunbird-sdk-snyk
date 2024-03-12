@@ -1,0 +1,6 @@
+export * from './config/faq-service-config';
+export * from './impl/faq-service-impl';
+export * from './def/faq-service';
+export * from './def/faq';
+export * from './def/get-faq-request';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvZmFxL2luZGV4LnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGNBQWMsNkJBQTZCLENBQUM7QUFDNUMsY0FBYyx5QkFBeUIsQ0FBQztBQUN4QyxjQUFjLG1CQUFtQixDQUFDO0FBQ2xDLGNBQWMsV0FBVyxDQUFDO0FBQzFCLGNBQWMsdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgKiBmcm9tICcuL2NvbmZpZy9mYXEtc2VydmljZS1jb25maWcnO1xuZXhwb3J0ICogZnJvbSAnLi9pbXBsL2ZhcS1zZXJ2aWNlLWltcGwnO1xuZXhwb3J0ICogZnJvbSAnLi9kZWYvZmFxLXNlcnZpY2UnO1xuZXhwb3J0ICogZnJvbSAnLi9kZWYvZmFxJztcbmV4cG9ydCAqIGZyb20gJy4vZGVmL2dldC1mYXEtcmVxdWVzdCc7XG4iXX0=

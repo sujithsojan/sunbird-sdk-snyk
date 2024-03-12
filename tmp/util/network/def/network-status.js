@@ -1,0 +1,6 @@
+export var NetworkStatus;
+(function (NetworkStatus) {
+    NetworkStatus["ONLINE"] = "ONLINE";
+    NetworkStatus["OFFLINE"] = "OFFLINE";
+})(NetworkStatus || (NetworkStatus = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibmV0d29yay1zdGF0dXMuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi9zcmMvdXRpbC9uZXR3b3JrL2RlZi9uZXR3b3JrLXN0YXR1cy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxNQUFNLENBQU4sSUFBWSxhQUdYO0FBSEQsV0FBWSxhQUFhO0lBQ3JCLGtDQUFpQixDQUFBO0lBQ2pCLG9DQUFtQixDQUFBO0FBQ3ZCLENBQUMsRUFIVyxhQUFhLEtBQWIsYUFBYSxRQUd4QiIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBlbnVtIE5ldHdvcmtTdGF0dXMge1xuICAgIE9OTElORSA9ICdPTkxJTkUnLFxuICAgIE9GRkxJTkUgPSAnT0ZGTElORSdcbn1cbiJdfQ==

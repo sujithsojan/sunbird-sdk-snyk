@@ -1,0 +1,16 @@
+var NumberUtil = /** @class */ (function () {
+    function NumberUtil() {
+    }
+    NumberUtil.toFixed = function (input) {
+        return Number(input.toFixed(2));
+    };
+    NumberUtil.parseInt = function (input) {
+        return input ? parseInt(input, 10) : 0;
+    };
+    NumberUtil.round = function (input) {
+        return Number(Math.round(parseFloat(input + 'e' + 4)) + 'e-' + 4);
+    };
+    return NumberUtil;
+}());
+export { NumberUtil };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibnVtYmVyLXV0aWwuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvdXRpbC9udW1iZXItdXRpbC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtJQUFBO0lBWUEsQ0FBQztJQVhpQixrQkFBTyxHQUFyQixVQUFzQixLQUFLO1FBQ3ZCLE9BQU8sTUFBTSxDQUFDLEtBQUssQ0FBQyxPQUFPLENBQUMsQ0FBQyxDQUFDLENBQUMsQ0FBQztJQUNwQyxDQUFDO0lBRWEsbUJBQVEsR0FBdEIsVUFBdUIsS0FBSztRQUN4QixPQUFPLEtBQUssQ0FBQyxDQUFDLENBQUMsUUFBUSxDQUFDLEtBQUssRUFBRSxFQUFFLENBQUMsQ0FBQyxDQUFDLENBQUMsQ0FBQyxDQUFDO0lBQzNDLENBQUM7SUFFYSxnQkFBSyxHQUFuQixVQUFvQixLQUFLO1FBQ3JCLE9BQU8sTUFBTSxDQUFDLElBQUksQ0FBQyxLQUFLLENBQUMsVUFBVSxDQUFDLEtBQUssR0FBRyxHQUFHLEdBQUcsQ0FBQyxDQUFDLENBQUMsR0FBRyxJQUFJLEdBQUcsQ0FBQyxDQUFDLENBQUM7SUFDdEUsQ0FBQztJQUNMLGlCQUFDO0FBQUQsQ0FBQyxBQVpELElBWUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY2xhc3MgTnVtYmVyVXRpbCB7XG4gICAgcHVibGljIHN0YXRpYyB0b0ZpeGVkKGlucHV0KTogbnVtYmVyIHtcbiAgICAgICAgcmV0dXJuIE51bWJlcihpbnB1dC50b0ZpeGVkKDIpKTtcbiAgICB9XG5cbiAgICBwdWJsaWMgc3RhdGljIHBhcnNlSW50KGlucHV0KTogbnVtYmVyIHtcbiAgICAgICAgcmV0dXJuIGlucHV0ID8gcGFyc2VJbnQoaW5wdXQsIDEwKSA6IDA7XG4gICAgfVxuXG4gICAgcHVibGljIHN0YXRpYyByb3VuZChpbnB1dCk6IG51bWJlciB7XG4gICAgICAgIHJldHVybiBOdW1iZXIoTWF0aC5yb3VuZChwYXJzZUZsb2F0KGlucHV0ICsgJ2UnICsgNCkpICsgJ2UtJyArIDQpO1xuICAgIH1cbn1cbiJdfQ==

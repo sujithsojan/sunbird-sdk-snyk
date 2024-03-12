@@ -1,0 +1,7 @@
+export var TelemetryAutoSyncModes;
+(function (TelemetryAutoSyncModes) {
+    TelemetryAutoSyncModes["OFF"] = "OFF";
+    TelemetryAutoSyncModes["OVER_WIFI"] = "OVER_WIFI";
+    TelemetryAutoSyncModes["ALWAYS_ON"] = "ALWAYS_ON";
+})(TelemetryAutoSyncModes || (TelemetryAutoSyncModes = {}));
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidGVsZW1ldHJ5LWF1dG8tc3luYy1tb2Rlcy5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy90ZWxlbWV0cnkvdXRpbC90ZWxlbWV0cnktYXV0by1zeW5jLW1vZGVzLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLE1BQU0sQ0FBTixJQUFZLHNCQUlYO0FBSkQsV0FBWSxzQkFBc0I7SUFDOUIscUNBQVcsQ0FBQTtJQUNYLGlEQUF1QixDQUFBO0lBQ3ZCLGlEQUF1QixDQUFBO0FBQzNCLENBQUMsRUFKVyxzQkFBc0IsS0FBdEIsc0JBQXNCLFFBSWpDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGVudW0gVGVsZW1ldHJ5QXV0b1N5bmNNb2RlcyB7XG4gICAgT0ZGID0gJ09GRicsXG4gICAgT1ZFUl9XSUZJID0gJ09WRVJfV0lGSScsXG4gICAgQUxXQVlTX09OID0gJ0FMV0FZU19PTidcbn1cbiJdfQ==

@@ -1,0 +1,7 @@
+var CourseBatchesResponse = /** @class */ (function () {
+    function CourseBatchesResponse() {
+    }
+    return CourseBatchesResponse;
+}());
+export { CourseBatchesResponse };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY291cnNlLWJhdGNoZXMtcmVzcG9uc2UuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi9zcmMvY291cnNlL2RlZi9jb3Vyc2UtYmF0Y2hlcy1yZXNwb25zZS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFQTtJQUFBO0lBR0EsQ0FBQztJQUFELDRCQUFDO0FBQUQsQ0FBQyxBQUhELElBR0MiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQge0JhdGNofSBmcm9tICcuL2JhdGNoJztcblxuZXhwb3J0IGNsYXNzIENvdXJzZUJhdGNoZXNSZXNwb25zZSB7XG4gICAgY291bnQ6IG51bWJlcjtcbiAgICBjb250ZW50OiBCYXRjaFtdO1xufVxuIl19

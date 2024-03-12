@@ -1,0 +1,50 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es2015",
+    "noImplicitAny": false,
+    "declaration": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "strict": true,
+    "paths": {
+      "crypto": [
+        "../../node_modules/crypto-js"
+      ]
+    },
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strictPropertyInitialization": false,
+    "outDir": "./dist",
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true,
+    "preserveSymlinks": true,
+    "skipLibCheck": true,
+    "lib": [
+      "dom",
+      "es6",
+      "es2015"
+    ],
+    "types": [
+      "node-fetch",
+      "reflect-metadata",
+      "websql"
+    ],
+    "moduleResolution": "node"
+  },
+  "include": [
+    "./src/**/*",
+    "./plugins/*.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "src/**/*.spec.ts",
+    "src/**/*.spec.data.ts",
+    "src/**/__tests__/*.ts",
+    "dist",
+    "tmp"
+  ],
+  "angularCompilerOptions": {
+    "genDir": "aot"
+  }
+}

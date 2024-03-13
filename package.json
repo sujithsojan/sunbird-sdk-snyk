@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ajv": "^6.9.1",
     "crypto-js": "4.2.0",
     "dayjs": "^1.9.8",
     "inversify": "^5.1.1",
